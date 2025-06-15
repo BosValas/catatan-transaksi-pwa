@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Transaksi Mata Uang",
+  "description": "Aplikasi untuk mencatat transaksi jual beli mata uang asing, membantu pengguna melacak konversi mata uang mereka.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
