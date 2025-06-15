@@ -3,7 +3,7 @@ const APP_SHELL_FILES = [
     '/', // Alias for index.html at root
     '/index.html',
     '/index.css',
-    '/index.tsx', // Main application script
+    '/index.js', // Main application script
     '/manifest.json',
     '/icon.svg'     // Main SVG icon
     // Note: CDN resources like esm.sh for React will be cached dynamically by the fetch handler if they have proper CORS headers.
